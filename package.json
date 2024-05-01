@@ -1,0 +1,12 @@
+{
+  "name": "a-j-function",
+  "version": "1.0.0",
+  "description": "17 days challenge Questions ",
+  "main": "function.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "MIT"
+}
